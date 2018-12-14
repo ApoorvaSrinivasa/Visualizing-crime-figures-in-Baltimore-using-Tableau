@@ -3,7 +3,6 @@
 ## How do the crime figures look like in the city of Baltimore?
 
 Summer 2018
-Apoorva H S
 
 ## About
 
