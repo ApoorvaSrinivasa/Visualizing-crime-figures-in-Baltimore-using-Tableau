@@ -1,5 +1,6 @@
 # Data-Visualisation-Project
-## Title - How do the crime figures look like in the city of Baltimore?
+
+## How do the crime figures look like in the city of Baltimore?
 
 Summer 2018
 Apoorva H S
@@ -8,7 +9,7 @@ Apoorva H S
 
 The aim of this project is to visualise and communicate a story of the data using Tableau 
 
-## TheDataset
+## The Dataset
 
 The dataset chosen for this purpose is crime data of Baltimore city.
 
