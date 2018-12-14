@@ -1,4 +1,4 @@
-# Data-Visualisation-Project
+# CS498 Data Visualisation Project
 
 ## How do the crime figures look like in the city of Baltimore?
 
